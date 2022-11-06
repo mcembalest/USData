@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy==1.9.1
+sklearn
+matplotlib
+plotly
+networkx
+torch==1.12.1
+torch-cluster
+torch-geometric
+torch-scatter
+torch-sparse
